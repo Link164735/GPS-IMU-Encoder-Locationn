@@ -1,3 +1,0 @@
-/opt/data/private/project/IMU-GPS-Encoder-location/src/build/CMakeFiles/ExtendedKalmanFilter.dir
-/opt/data/private/project/IMU-GPS-Encoder-location/src/build/CMakeFiles/edit_cache.dir
-/opt/data/private/project/IMU-GPS-Encoder-location/src/build/CMakeFiles/rebuild_cache.dir
